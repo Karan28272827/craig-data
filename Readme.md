@@ -288,6 +288,3 @@ All URLs are programmatically generated using the `build_url()` function, ensuri
 
 ---
 
-## License
-
-Part of the navi_bench project.
